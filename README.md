@@ -10,6 +10,10 @@
     <img src="./public/PrintPageWeb.png"/>
   </h1>
 
+  <h3 align="center">
+    <a target="_blank" href="https://erickhenri.github.io/orderSummaryCard/"> Acesse o Site </a>
+  </h3>
+
 ---
 
 ## 💻 Tecnologias Ultilizadas
